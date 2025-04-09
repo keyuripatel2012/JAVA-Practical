@@ -7,6 +7,6 @@
   - For run file, `java <file_name>`
 
 - For download JDK :
-  - Download exe file of JDK according to your OS from following link
+  - Download exe file of JDK according to your OS from 
     (https://www.oracle.com/in/java/technologies/downloads/#jdk22-windows)
 
